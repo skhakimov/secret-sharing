@@ -3,6 +3,8 @@ This is an implementation of Shamir Secret Sharing Scheme.
 Only standard python libraries are being used. 
 No need to install additional modules.
 
+Demo available for GUI: http://youtu.be/FajKgzJ0KiE and CLI: http://youtu.be/zR7GKyLYBYM
+
 The program consists of following files:
 interpolate.py: file that contains the interpolate class
 secret.py: file that contains the class to generate a secret
